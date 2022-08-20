@@ -22,7 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     background: url(images/bg-pattern-top-mobile.svg), 
-                url(images/bg-pattern-bottom-mobile.svg);
+        url(images/bg-pattern-bottom-mobile.svg);
     background-position: top, bottom;
     background-repeat: no-repeat;
 }
@@ -100,4 +100,13 @@ header p {
     font-size: 0.8em;
     line-height: 1.8em;
     font-weight: 300;
+}
+
+@media screen and (min-width:992px) {
+    body {
+        width: 80%;
+        background-image: url(images/bg-pattern-top-desktop.svg),
+            url(images/bg-pattern-bottom-desktop.svg);
+        background-position: left top right bottom;
+    }
 }
