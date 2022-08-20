@@ -43,3 +43,17 @@ header p {
     line-height: 1.5em;
     padding: 1em 0em;
 }
+
+.rating {
+    background-color: hsl(300, 24%, 96%);
+    margin: 1em 0em;
+    width: 100%;
+    padding: 1em 2em;
+    border-radius: 10px;
+}
+
+.rating h2 {
+    font-size: 1em;
+    color: hsl(300, 43%, 22%);
+    padding-top: 0.5em;
+}
