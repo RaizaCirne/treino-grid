@@ -92,3 +92,12 @@ header p {
     font-weight: 300;
     padding-top: 0.4;
 }
+
+.review p {
+    text-align: start;
+    margin-top: 1.5;
+    color: hsl(300, 24%, 96%);
+    font-size: 0.8em;
+    line-height: 1.8em;
+    font-weight: 300;
+}
