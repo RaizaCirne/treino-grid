@@ -27,3 +27,19 @@ body {
     background-repeat: no-repeat;
 }
 
+header {
+    margin-top: 5rem;
+}
+
+header h1 {
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+}
+
+header p {
+    color: hsl(303, 10%, 53%);
+    font-weight: 500;
+    font-size: 0.9em;
+    line-height: 1.5em;
+    padding: 1em 0em;
+}
