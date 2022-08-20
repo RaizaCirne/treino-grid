@@ -13,3 +13,17 @@ html {
     margin: auto;
 }
 
+body {
+    width: 90%;
+    margin: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url(images/bg-pattern-top-mobile.svg), 
+                url(images/bg-pattern-bottom-mobile.svg);
+    background-position: top, bottom;
+    background-repeat: no-repeat;
+}
+
