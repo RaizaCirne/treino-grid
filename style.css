@@ -108,5 +108,13 @@ header p {
         background-image: url(images/bg-pattern-top-desktop.svg),
             url(images/bg-pattern-bottom-desktop.svg);
         background-position: left top right bottom;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
     }
+
+    header h1 {
+        font-size: 3.5em;
+        text-align: start;
+        
 }
