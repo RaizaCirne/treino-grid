@@ -71,9 +71,24 @@ header p {
     width: 40px;
     height: 40px;
     object-fit: contain;
+    margin: 1em;
 }
 
 .profile {
    display: flex;
    align-items: center;
+}
+
+.profile h3 {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    font-size: 0.9em;
+    color: white;
+}
+
+.profile span {
+    color: hsl(333, 80%, 67%);
+    font-weight: 300;
+    padding-top: 0.4;
 }
