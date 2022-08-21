@@ -141,6 +141,10 @@ header p {
         display: flex;
     }
 
+    .stars img {
+        padding-right: 0.3em;
+    }
+
     .reviews {
         display: flex;
         flex-direction: row;
