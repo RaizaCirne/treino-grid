@@ -122,5 +122,11 @@ header p {
         text-align: start;
         font-size: 1.1em;
     }
+
+    .reviews {
+        display: flex;
+        
+       
+    }
         
 }
