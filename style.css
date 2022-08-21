@@ -125,6 +125,8 @@ header p {
 
     .reviews {
         display: flex;
+        flex-direction: row;
+     
         
        
     }
