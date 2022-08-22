@@ -181,4 +181,8 @@ header p {
     .review.three {
         align-self: end;
     }
+
+    .attribution {
+        grid-column: 1/3;
+    }
 }
