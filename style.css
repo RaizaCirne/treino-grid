@@ -149,7 +149,9 @@ header p {
         justify-self: start;
     }
 
-   
+    .rate-2 {
+        
+    }
 
     .reviews {
         display: flex;
