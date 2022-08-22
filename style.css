@@ -153,6 +153,10 @@ header p {
         justify-self: center;
     }
 
+    .rate-3 {
+        
+    }
+
     .reviews {
         display: flex;
         flex-direction: row;
