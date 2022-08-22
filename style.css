@@ -145,6 +145,10 @@ header p {
         padding-right: 0.3em;
     }
 
+    .rate-1 {
+        
+    }
+
     .reviews {
         display: flex;
         flex-direction: row;
