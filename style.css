@@ -146,8 +146,10 @@ header p {
     }
 
     .rate-1 {
-        
+        justify-self: start;
     }
+
+   
 
     .reviews {
         display: flex;
