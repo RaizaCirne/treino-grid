@@ -166,5 +166,19 @@ header p {
 
     .review {
         width: 420px;
+        padding: 2em;
+        height: 15em;
     } 
+
+    .review.one {
+        align-self: top;
+    }
+
+    .review.two {
+        align-self: center;
+    }
+
+    .review.three {
+        align-self: end;
+    }
 }
