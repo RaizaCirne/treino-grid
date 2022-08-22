@@ -154,7 +154,7 @@ header p {
     }
 
     .rate-3 {
-        
+        justify-self: end;
     }
 
     .reviews {
